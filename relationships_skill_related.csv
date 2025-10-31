@@ -1,0 +1,801 @@
+skill1,skill2
+Node.js,Scala (Practical)
+PyTorch (Intro),PowerBI Fundamentals
+Pandas Fundamentals,MLOps for Finance
+Machine Learning for Healthcare,Machine Learning (Practical)
+Kafka (Intro),Redshift Advanced
+Python,Hadoop Fundamentals
+Machine Learning Advanced,Microservices - Best Practices
+NLP for Finance,Time Series Fundamentals
+JavaScript (Practical),AWS Fundamentals
+Cloud Computing for Healthcare,PowerBI Fundamentals
+Kafka,Statistics (Practical)
+GANs for Healthcare,Docker (Practical)
+CI/CD Fundamentals,Airflow - Best Practices
+Azure Advanced,Statistics (Intro)
+Scikit-Learn Advanced,NLP - Best Practices
+Node.js - Best Practices,CI/CD Advanced
+Scala (Intro),Pandas (Intro)
+NLP for Healthcare,GANs for Finance
+Snowflake (Intro),Java - Best Practices
+Airflow Fundamentals,NumPy Advanced
+Apache Spark (Intro),PyTorch (Practical)
+Cloud Computing (Practical),GCP (Practical)
+Cloud Computing for Finance,Deep Learning for Healthcare
+Pandas,Kubernetes Advanced
+Go (Intro),SQL Fundamentals
+Scikit-Learn,DBT (Intro)
+Kubernetes for Finance,Machine Learning for Healthcare
+Scala Advanced,GANs (Intro)
+JavaScript for Finance,AWS (Intro)
+C++ Advanced,Spark Streaming for Healthcare
+PowerBI for Healthcare,Java for Healthcare
+ETL Fundamentals,NumPy - Best Practices
+Azure (Intro),C++ - Best Practices
+Computer Vision (Intro),Go - Best Practices
+Go,Scikit-Learn for Finance
+Snowflake Advanced,NumPy Fundamentals
+Go (Practical),Java for Finance
+Deep Learning - Best Practices,BigQuery Fundamentals
+Redshift Advanced,GANs
+PyTorch - Best Practices,Kubernetes for Finance
+Pandas,Azure for Finance
+JavaScript Advanced,TensorFlow for Healthcare
+Pandas Fundamentals,Kubernetes
+Go (Intro),Linux
+Python,BigQuery Advanced
+Spark Streaming (Intro),Node.js - Best Practices
+BigQuery,SQL (Practical)
+ETL Fundamentals,SQL (Practical)
+GCP,REST APIs Fundamentals
+Scala for Healthcare,Computer Vision Advanced
+TensorFlow Advanced,Time Series for Finance
+Linux (Intro),Java (Intro)
+Go,Azure Fundamentals
+Scala (Intro),Time Series (Practical)
+CI/CD - Best Practices,Hadoop (Intro)
+Microservices (Intro),Deep Learning for Finance
+Microservices for Finance,Probability (Intro)
+Tableau,Redshift - Best Practices
+Airflow (Intro),Pandas (Practical)
+Data Visualization (Intro),Probability (Practical)
+Docker (Practical),Spark Streaming
+Docker,NLP Advanced
+Pandas for Healthcare,PyTorch (Practical)
+Python,Docker (Intro)
+Java,Spark Streaming (Practical)
+Go - Best Practices,Microservices for Finance
+Probability Advanced,Scikit-Learn (Intro)
+Microservices for Finance,Cloud Computing for Healthcare
+Kubernetes for Healthcare,Pandas Fundamentals
+NLP for Finance,AWS for Healthcare
+PyTorch,Java (Intro)
+PyTorch for Healthcare,Java - Best Practices
+MLOps Fundamentals,Machine Learning (Intro)
+Statistics for Healthcare,GANs (Practical)
+Pandas (Intro),NumPy for Healthcare
+GCP for Finance,ETL for Finance
+Kafka (Practical),Pandas Advanced
+Computer Vision,Time Series for Healthcare
+REST APIs for Finance,Node.js - Best Practices
+Cloud Computing - Best Practices,Hadoop Fundamentals
+AWS for Healthcare,Reinforcement Learning Advanced
+Machine Learning Advanced,Microservices - Best Practices
+Kubernetes for Finance,Computer Vision - Best Practices
+SQL - Best Practices,Snowflake (Intro)
+JavaScript - Best Practices,Tableau - Best Practices
+Computer Vision for Healthcare,Node.js (Intro)
+Python (Intro),C++ Fundamentals
+NLP Fundamentals,Apache Spark Fundamentals
+Kubernetes (Practical),Spark Streaming Advanced
+React - Best Practices,Statistics for Finance
+PowerBI for Healthcare,Java (Practical)
+GCP (Practical),Azure Fundamentals
+Docker for Finance,PowerBI
+Deep Learning (Practical),Python (Practical)
+REST APIs for Finance,Python
+Java Advanced,Data Visualization for Healthcare
+CI/CD (Intro),Node.js - Best Practices
+REST APIs,Apache Spark
+CI/CD (Practical),Statistics for Healthcare
+NumPy Advanced,AWS (Practical)
+REST APIs,GANs Fundamentals
+Azure Fundamentals,GCP Fundamentals
+Computer Vision Fundamentals,Machine Learning
+Time Series for Healthcare,Snowflake Fundamentals
+Linux Fundamentals,REST APIs - Best Practices
+React Fundamentals,Scala for Healthcare
+GANs (Intro),Airflow Advanced
+PowerBI (Practical),React (Practical)
+JavaScript for Finance,Apache Spark Fundamentals
+NumPy for Finance,Computer Vision for Healthcare
+CI/CD Advanced,Docker
+Probability for Healthcare,Redshift - Best Practices
+Cloud Computing - Best Practices,Cloud Computing
+Cloud Computing Advanced,SQL - Best Practices
+NLP for Healthcare,Scikit-Learn Advanced
+DBT (Practical),Tableau (Intro)
+MLOps (Intro),React Fundamentals
+Spark Streaming for Finance,ETL
+Node.js for Finance,Pandas
+Python Fundamentals,Computer Vision Advanced
+JavaScript Advanced,React (Practical)
+SQL for Finance,REST APIs (Practical)
+Node.js Advanced,PyTorch (Intro)
+Computer Vision - Best Practices,GANs Advanced
+NLP for Healthcare,Go (Intro)
+Machine Learning (Practical),Redshift for Healthcare
+Kafka,CI/CD Advanced
+Statistics (Intro),GANs (Practical)
+GANs - Best Practices,Azure for Healthcare
+NLP for Finance,REST APIs - Best Practices
+BigQuery Advanced,MLOps Advanced
+Scikit-Learn Advanced,Scikit-Learn (Intro)
+Microservices for Finance,Deep Learning (Practical)
+Node.js (Practical),Docker (Practical)
+Node.js Fundamentals,Azure (Practical)
+Data Visualization for Healthcare,REST APIs for Finance
+Hadoop (Practical),Probability (Practical)
+NumPy Fundamentals,Data Visualization for Finance
+Scikit-Learn (Practical),Tableau
+React - Best Practices,Python (Intro)
+PyTorch for Healthcare,Go for Healthcare
+Computer Vision - Best Practices,TensorFlow for Finance
+JavaScript (Practical),TensorFlow (Practical)
+Hadoop (Intro),Spark Streaming Fundamentals
+Redshift (Intro),Scikit-Learn (Practical)
+Spark Streaming,Azure for Healthcare
+Tableau (Practical),Reinforcement Learning
+Spark Streaming Fundamentals,Time Series (Practical)
+JavaScript - Best Practices,React for Finance
+Kubernetes Advanced,CI/CD for Finance
+Pandas for Finance,CI/CD (Intro)
+NumPy (Practical),Node.js - Best Practices
+Redshift Advanced,GCP Advanced
+Redshift (Intro),BigQuery
+PyTorch (Practical),NumPy - Best Practices
+Microservices (Practical),C++ Advanced
+NLP for Healthcare,Scikit-Learn Advanced
+Reinforcement Learning,GCP
+Probability for Healthcare,TensorFlow (Intro)
+Kafka for Finance,JavaScript (Practical)
+Linux (Intro),Apache Spark Fundamentals
+C++ for Healthcare,Cloud Computing for Healthcare
+ETL for Finance,Computer Vision Advanced
+TensorFlow (Intro),DBT - Best Practices
+React,MLOps for Finance
+Linux,Machine Learning (Practical)
+AWS Fundamentals,Deep Learning for Finance
+Data Visualization Fundamentals,ETL
+Airflow for Finance,TensorFlow (Intro)
+ETL,Scikit-Learn - Best Practices
+TensorFlow - Best Practices,Snowflake Advanced
+Docker for Finance,Node.js
+Scikit-Learn Advanced,Kubernetes Fundamentals
+Tableau (Practical),Data Visualization Fundamentals
+PowerBI (Practical),ETL Fundamentals
+Python (Intro),GCP for Healthcare
+Machine Learning Advanced,Apache Spark - Best Practices
+Spark Streaming for Finance,Azure (Intro)
+SQL (Intro),React Advanced
+CI/CD Advanced,Python
+ETL for Healthcare,Docker Fundamentals
+Snowflake for Finance,Deep Learning
+Apache Spark,Hadoop Advanced
+Statistics - Best Practices,TensorFlow for Finance
+CI/CD (Intro),DBT for Healthcare
+Linux - Best Practices,Redshift
+SQL for Healthcare,React
+Probability Advanced,MLOps (Practical)
+ETL for Finance,CI/CD - Best Practices
+Python (Practical),Machine Learning Advanced
+SQL (Practical),Kubernetes - Best Practices
+Go - Best Practices,Cloud Computing (Practical)
+Spark Streaming for Healthcare,Go (Intro)
+MLOps - Best Practices,Pandas - Best Practices
+AWS,JavaScript
+SQL - Best Practices,Statistics (Practical)
+DBT - Best Practices,Probability Fundamentals
+Go (Intro),Tableau Fundamentals
+Machine Learning for Finance,ETL (Practical)
+CI/CD (Intro),Spark Streaming - Best Practices
+Pandas (Practical),Data Visualization for Healthcare
+Linux Advanced,TensorFlow - Best Practices
+Tableau,Pandas for Finance
+AWS (Intro),TensorFlow (Practical)
+Redshift for Finance,PyTorch Fundamentals
+Cloud Computing - Best Practices,Azure (Practical)
+Machine Learning Advanced,ETL - Best Practices
+JavaScript (Intro),Java for Finance
+AWS for Healthcare,React Advanced
+Java Advanced,Microservices Advanced
+Snowflake (Practical),Time Series (Practical)
+Hadoop Fundamentals,Airflow (Intro)
+SQL Fundamentals,Spark Streaming for Healthcare
+NLP for Finance,Docker (Intro)
+Kubernetes Advanced,Cloud Computing Fundamentals
+TensorFlow for Healthcare,AWS for Healthcare
+Spark Streaming Fundamentals,BigQuery (Practical)
+Java (Intro),Airflow (Practical)
+Azure (Intro),PowerBI
+Time Series Advanced,Cloud Computing for Finance
+Time Series - Best Practices,NumPy
+GCP Advanced,Docker Advanced
+Probability (Intro),Reinforcement Learning
+Microservices Fundamentals,Probability
+Spark Streaming (Intro),PowerBI
+GANs Fundamentals,React (Practical)
+Python Fundamentals,Hadoop
+Deep Learning Fundamentals,Data Visualization - Best Practices
+Node.js for Finance,GCP Advanced
+Probability (Practical),DBT Fundamentals
+JavaScript for Healthcare,C++ for Finance
+PyTorch for Healthcare,Time Series - Best Practices
+Deep Learning for Finance,BigQuery for Healthcare
+SQL Fundamentals,Kubernetes for Finance
+Pandas Fundamentals,JavaScript
+Snowflake Fundamentals,GANs for Healthcare
+Cloud Computing (Practical),Java
+MLOps for Healthcare,DBT
+Go for Healthcare,Reinforcement Learning (Intro)
+Probability (Practical),Snowflake (Intro)
+Reinforcement Learning for Healthcare,Spark Streaming
+REST APIs (Intro),BigQuery (Intro)
+REST APIs Fundamentals,JavaScript Advanced
+Pandas,Hadoop (Practical)
+Node.js Fundamentals,Tableau for Finance
+Go for Finance,Statistics Fundamentals
+Pandas (Practical),Python (Intro)
+Microservices - Best Practices,Pandas (Intro)
+Tableau (Practical),NLP Fundamentals
+MLOps - Best Practices,GANs Advanced
+Redshift Advanced,Snowflake
+Go (Intro),Statistics for Finance
+AWS - Best Practices,JavaScript for Healthcare
+Tableau (Practical),GANs for Healthcare
+Spark Streaming,Node.js for Finance
+Spark Streaming,SQL Advanced
+AWS for Finance,Docker Fundamentals
+Hadoop,Linux (Intro)
+Data Visualization for Healthcare,SQL for Finance
+MLOps - Best Practices,Kubernetes (Practical)
+Redshift Fundamentals,Redshift (Practical)
+Docker (Practical),ETL - Best Practices
+Scikit-Learn Advanced,DBT for Finance
+Docker - Best Practices,MLOps - Best Practices
+React for Healthcare,NumPy Fundamentals
+BigQuery - Best Practices,Python - Best Practices
+JavaScript Advanced,Airflow for Healthcare
+Azure for Finance,GCP (Practical)
+Probability (Practical),PyTorch for Healthcare
+PyTorch,ETL Fundamentals
+CI/CD Advanced,NumPy - Best Practices
+Kafka Advanced,Go Advanced
+NumPy Fundamentals,Deep Learning (Intro)
+C++ - Best Practices,Computer Vision (Practical)
+Microservices,Machine Learning Advanced
+Node.js,Cloud Computing
+Spark Streaming for Healthcare,Spark Streaming
+NLP (Intro),Airflow Fundamentals
+Python,PowerBI (Practical)
+Kafka for Finance,PowerBI Advanced
+Data Visualization,MLOps (Practical)
+ETL,DBT (Intro)
+Python (Intro),Probability for Finance
+Reinforcement Learning (Intro),Time Series
+SQL for Finance,Data Visualization - Best Practices
+Airflow,GANs Fundamentals
+Apache Spark,PyTorch (Intro)
+Time Series Fundamentals,PowerBI Fundamentals
+Computer Vision (Intro),Deep Learning (Practical)
+Node.js Fundamentals,Deep Learning - Best Practices
+Airflow Advanced,ETL (Intro)
+Snowflake - Best Practices,JavaScript (Practical)
+BigQuery (Practical),Python
+C++ (Intro),Scala Fundamentals
+Cloud Computing,SQL
+JavaScript,PyTorch for Healthcare
+Cloud Computing,PyTorch for Healthcare
+Data Visualization for Healthcare,Snowflake for Finance
+NLP for Healthcare,BigQuery
+Python for Finance,Python
+PyTorch (Intro),Hadoop (Intro)
+BigQuery - Best Practices,DBT - Best Practices
+MLOps - Best Practices,CI/CD Advanced
+Scala for Finance,Data Visualization for Healthcare
+GANs,NumPy Fundamentals
+Statistics,Statistics - Best Practices
+Microservices Advanced,Scala for Healthcare
+CI/CD,GCP (Intro)
+GCP (Intro),Kafka
+PowerBI (Intro),SQL Fundamentals
+Data Visualization for Healthcare,AWS for Healthcare
+Tableau Fundamentals,AWS Advanced
+Snowflake (Intro),NLP (Practical)
+SQL (Intro),MLOps Fundamentals
+Azure (Practical),Azure - Best Practices
+NLP Advanced,SQL - Best Practices
+TensorFlow Advanced,Docker (Practical)
+Redshift for Healthcare,Redshift (Practical)
+Java (Intro),REST APIs - Best Practices
+REST APIs for Healthcare,Scala - Best Practices
+NLP,React Advanced
+Scala for Finance,MLOps (Practical)
+Spark Streaming for Healthcare,PowerBI - Best Practices
+Redshift (Practical),Microservices - Best Practices
+Spark Streaming - Best Practices,Machine Learning
+Reinforcement Learning Fundamentals,Computer Vision Fundamentals
+Scala Advanced,REST APIs - Best Practices
+TensorFlow Fundamentals,ETL for Finance
+Data Visualization Advanced,Microservices - Best Practices
+ETL for Healthcare,Computer Vision for Finance
+NumPy (Practical),Scikit-Learn (Intro)
+Kubernetes for Healthcare,C++ Advanced
+Data Visualization for Healthcare,Hadoop Advanced
+PyTorch Fundamentals,SQL
+GANs Fundamentals,TensorFlow Advanced
+Kubernetes for Finance,DBT
+Redshift - Best Practices,JavaScript - Best Practices
+Computer Vision - Best Practices,Cloud Computing Fundamentals
+Linux (Intro),Reinforcement Learning for Healthcare
+Scikit-Learn (Intro),Data Visualization
+Probability for Finance,Reinforcement Learning
+Time Series for Finance,Airflow
+Python - Best Practices,Node.js - Best Practices
+Spark Streaming (Intro),Deep Learning Advanced
+Scala for Healthcare,Go - Best Practices
+SQL Advanced,NumPy for Finance
+DBT for Healthcare,MLOps (Practical)
+Kafka (Practical),C++ (Intro)
+PowerBI Fundamentals,Deep Learning for Finance
+Redshift for Healthcare,Java for Finance
+Node.js,NLP for Healthcare
+Spark Streaming for Finance,Python (Intro)
+Pandas Fundamentals,AWS Advanced
+JavaScript for Healthcare,Snowflake (Intro)
+Apache Spark for Finance,JavaScript Advanced
+NumPy - Best Practices,AWS (Intro)
+Kafka - Best Practices,NLP for Healthcare
+C++ for Healthcare,Statistics (Practical)
+MLOps (Intro),Time Series Fundamentals
+Go (Intro),Cloud Computing Advanced
+Hadoop (Intro),Airflow Advanced
+Kubernetes,CI/CD
+React for Healthcare,MLOps Fundamentals
+DBT Fundamentals,Microservices (Practical)
+Go,Machine Learning - Best Practices
+Tableau Advanced,Kafka (Practical)
+REST APIs Advanced,Docker for Finance
+Tableau (Practical),Kubernetes Fundamentals
+Kubernetes Advanced,GCP - Best Practices
+Java (Intro),REST APIs (Practical)
+Tableau for Finance,ETL (Intro)
+MLOps Advanced,Reinforcement Learning (Intro)
+SQL - Best Practices,React Advanced
+Airflow,DBT
+TensorFlow - Best Practices,NumPy Fundamentals
+C++ Advanced,AWS
+Statistics for Finance,Linux for Finance
+Reinforcement Learning (Intro),C++ Fundamentals
+TensorFlow Advanced,BigQuery for Finance
+PyTorch for Healthcare,Spark Streaming for Finance
+Time Series - Best Practices,Computer Vision (Practical)
+Deep Learning (Practical),PyTorch (Intro)
+Airflow,Reinforcement Learning for Healthcare
+CI/CD (Intro),React (Intro)
+Java (Practical),GCP - Best Practices
+JavaScript (Intro),Docker Fundamentals
+MLOps for Finance,Airflow for Finance
+BigQuery Fundamentals,Node.js for Finance
+CI/CD (Intro),Machine Learning (Practical)
+Airflow Fundamentals,Computer Vision Advanced
+React (Intro),JavaScript for Finance
+Go (Intro),Go - Best Practices
+Go for Finance,Scikit-Learn
+Probability Advanced,Deep Learning (Intro)
+Spark Streaming for Healthcare,Tableau for Finance
+Data Visualization Advanced,NLP Advanced
+Docker - Best Practices,GANs Advanced
+Machine Learning,PowerBI for Finance
+Python,Statistics for Finance
+Scala for Healthcare,Statistics for Healthcare
+MLOps,Scikit-Learn Advanced
+Airflow Fundamentals,Apache Spark
+Reinforcement Learning Fundamentals,ETL Fundamentals
+Pandas (Intro),NumPy - Best Practices
+NumPy for Finance,MLOps Advanced
+C++ - Best Practices,Redshift - Best Practices
+Pandas (Practical),ETL - Best Practices
+GCP Fundamentals,Tableau (Practical)
+PowerBI Advanced,Node.js for Finance
+Hadoop for Healthcare,Microservices for Finance
+Python Advanced,Probability Fundamentals
+Python Fundamentals,PyTorch for Finance
+AWS (Practical),Airflow - Best Practices
+Time Series (Intro),Microservices for Healthcare
+PowerBI Fundamentals,Hadoop for Healthcare
+PyTorch (Practical),Azure - Best Practices
+DBT (Intro),Data Visualization Advanced
+TensorFlow Advanced,Pandas for Healthcare
+Scala - Best Practices,MLOps (Intro)
+Linux for Finance,Azure for Healthcare
+Scala - Best Practices,ETL
+Microservices for Healthcare,Apache Spark Fundamentals
+TensorFlow (Intro),Scala
+PyTorch for Finance,Node.js Advanced
+ETL Fundamentals,SQL Fundamentals
+Azure for Finance,Snowflake Fundamentals
+Spark Streaming,Pandas Fundamentals
+Probability Fundamentals,ETL (Practical)
+Time Series (Intro),NumPy (Practical)
+DBT Fundamentals,Scala for Finance
+Apache Spark,TensorFlow (Intro)
+Reinforcement Learning Advanced,Statistics (Practical)
+Data Visualization (Practical),GANs (Practical)
+Cloud Computing - Best Practices,BigQuery Advanced
+Reinforcement Learning Advanced,PyTorch for Finance
+NumPy Advanced,BigQuery
+Apache Spark for Healthcare,Redshift (Practical)
+ETL - Best Practices,PowerBI (Intro)
+Computer Vision (Practical),TensorFlow Advanced
+Apache Spark,Computer Vision (Practical)
+AWS - Best Practices,Docker (Intro)
+Apache Spark Advanced,Azure - Best Practices
+Docker for Healthcare,Computer Vision for Finance
+Snowflake Fundamentals,GANs (Intro)
+ETL for Healthcare,Docker for Finance
+NLP (Practical),Data Visualization
+Java (Intro),MLOps for Healthcare
+NumPy Advanced,React for Finance
+Data Visualization (Practical),Hadoop (Practical)
+Data Visualization - Best Practices,Hadoop for Finance
+PowerBI - Best Practices,Node.js Advanced
+Redshift for Finance,Hadoop for Healthcare
+C++ (Intro),Docker for Healthcare
+Redshift for Finance,CI/CD Fundamentals
+Statistics for Healthcare,SQL for Finance
+Apache Spark,Python Fundamentals
+Scala (Practical),Airflow (Practical)
+Azure for Finance,Tableau - Best Practices
+Go for Healthcare,ETL for Finance
+Docker Fundamentals,JavaScript (Practical)
+Cloud Computing for Healthcare,Data Visualization Fundamentals
+React - Best Practices,Computer Vision Advanced
+Hadoop for Healthcare,Snowflake Fundamentals
+AWS (Intro),TensorFlow
+Airflow,TensorFlow for Healthcare
+PowerBI Advanced,GANs (Intro)
+REST APIs (Intro),Redshift for Healthcare
+Snowflake for Finance,BigQuery for Finance
+Time Series for Healthcare,TensorFlow Advanced
+Azure Advanced,Python
+GCP for Healthcare,Machine Learning Advanced
+NumPy (Practical),SQL for Healthcare
+PyTorch for Finance,C++ (Intro)
+Tableau,Python Fundamentals
+C++ for Finance,Probability for Finance
+AWS (Intro),MLOps (Intro)
+GCP (Practical),Spark Streaming (Practical)
+Cloud Computing for Finance,Probability (Practical)
+React (Intro),Node.js
+DBT - Best Practices,Snowflake Fundamentals
+Spark Streaming Advanced,Go for Healthcare
+DBT Fundamentals,Deep Learning for Healthcare
+Snowflake Advanced,Snowflake for Finance
+Microservices (Practical),SQL Fundamentals
+Tableau - Best Practices,GCP
+Kubernetes - Best Practices,Data Visualization - Best Practices
+Docker (Practical),Pandas - Best Practices
+Kafka,Python
+Linux for Finance,NumPy (Practical)
+Computer Vision (Intro),Reinforcement Learning for Healthcare
+Spark Streaming Fundamentals,Java Fundamentals
+Cloud Computing (Intro),PowerBI for Healthcare
+Node.js - Best Practices,Azure
+Reinforcement Learning (Intro),Snowflake for Healthcare
+Azure (Practical),ETL for Finance
+Data Visualization (Practical),ETL Fundamentals
+React (Intro),GANs (Intro)
+Data Visualization for Healthcare,PowerBI Fundamentals
+Python Fundamentals,Go - Best Practices
+Spark Streaming Advanced,Java for Finance
+DBT (Practical),NLP Advanced
+CI/CD Fundamentals,MLOps (Intro)
+React (Practical),MLOps (Practical)
+C++,Linux for Healthcare
+Azure - Best Practices,Time Series Fundamentals
+ETL for Healthcare,Snowflake - Best Practices
+Scikit-Learn for Healthcare,Tableau for Healthcare
+GANs - Best Practices,C++ (Practical)
+Kafka for Healthcare,PowerBI (Intro)
+PowerBI Fundamentals,Scala
+Scala for Healthcare,BigQuery
+Computer Vision for Finance,Data Visualization Advanced
+Microservices for Healthcare,JavaScript (Practical)
+AWS for Finance,Snowflake (Practical)
+React - Best Practices,TensorFlow for Healthcare
+Kafka (Practical),REST APIs
+BigQuery - Best Practices,Docker Fundamentals
+Reinforcement Learning (Intro),Hadoop
+Kafka for Finance,Tableau - Best Practices
+BigQuery - Best Practices,NLP for Finance
+Scala - Best Practices,MLOps
+Deep Learning for Finance,Python
+Python for Finance,PyTorch
+Deep Learning Advanced,REST APIs Advanced
+PyTorch for Finance,AWS (Intro)
+ETL (Practical),Microservices for Finance
+TensorFlow for Healthcare,Time Series
+Python (Intro),MLOps Advanced
+Time Series - Best Practices,MLOps for Finance
+REST APIs - Best Practices,GANs
+Node.js,TensorFlow Advanced
+Kafka - Best Practices,Java (Intro)
+Spark Streaming,Apache Spark - Best Practices
+PyTorch (Intro),TensorFlow Advanced
+Python Advanced,Java Advanced
+Statistics Fundamentals,Hadoop - Best Practices
+React Fundamentals,Computer Vision - Best Practices
+PowerBI Advanced,AWS Fundamentals
+NumPy,Machine Learning Advanced
+MLOps - Best Practices,TensorFlow Advanced
+Pandas - Best Practices,Linux for Healthcare
+Azure - Best Practices,Python
+Airflow Advanced,Data Visualization for Healthcare
+CI/CD Fundamentals,MLOps (Practical)
+AWS - Best Practices,Redshift (Practical)
+Redshift - Best Practices,NLP - Best Practices
+Apache Spark for Finance,DBT (Intro)
+Machine Learning,Machine Learning Advanced
+GCP for Finance,Python for Healthcare
+Kafka - Best Practices,C++ Fundamentals
+Java - Best Practices,PowerBI - Best Practices
+Probability Advanced,NumPy for Finance
+Microservices (Practical),Kubernetes Fundamentals
+Cloud Computing Advanced,Probability (Practical)
+Hadoop,Hadoop (Intro)
+React - Best Practices,Scala (Practical)
+Kubernetes - Best Practices,Redshift - Best Practices
+Go - Best Practices,Microservices Advanced
+ETL Fundamentals,Apache Spark
+Snowflake (Practical),REST APIs Advanced
+Go (Intro),AWS
+Pandas for Finance,Reinforcement Learning (Practical)
+Scala for Healthcare,Airflow
+Java - Best Practices,BigQuery (Practical)
+Machine Learning for Finance,ETL Advanced
+PyTorch - Best Practices,Spark Streaming Advanced
+Deep Learning Advanced,Node.js for Healthcare
+ETL - Best Practices,Deep Learning for Finance
+Node.js (Practical),PyTorch Fundamentals
+Pandas for Healthcare,Snowflake Fundamentals
+PowerBI for Finance,TensorFlow for Healthcare
+SQL Fundamentals,Scala (Practical)
+DBT Advanced,TensorFlow - Best Practices
+PyTorch Advanced,CI/CD for Finance
+Java for Finance,Machine Learning Advanced
+PowerBI,Kafka (Practical)
+DBT - Best Practices,Linux for Healthcare
+React - Best Practices,Machine Learning - Best Practices
+Airflow (Practical),Snowflake for Finance
+Computer Vision (Intro),Node.js
+Cloud Computing (Practical),Spark Streaming for Finance
+Azure for Healthcare,REST APIs Advanced
+Snowflake for Finance,Statistics (Intro)
+Time Series - Best Practices,MLOps (Practical)
+MLOps for Healthcare,GANs (Practical)
+CI/CD for Healthcare,PyTorch (Intro)
+Reinforcement Learning for Finance,Pandas
+C++ - Best Practices,Cloud Computing for Healthcare
+JavaScript Fundamentals,NLP (Practical)
+Hadoop (Intro),Kafka (Practical)
+Scikit-Learn (Practical),GANs Advanced
+JavaScript,AWS for Healthcare
+GANs - Best Practices,Probability (Practical)
+Redshift (Intro),SQL - Best Practices
+Deep Learning (Intro),Apache Spark
+React (Practical),Scikit-Learn
+Probability Advanced,React - Best Practices
+JavaScript for Finance,Java Advanced
+AWS - Best Practices,Spark Streaming Fundamentals
+Probability (Practical),Airflow (Practical)
+Microservices (Intro),TensorFlow Advanced
+Reinforcement Learning,CI/CD (Intro)
+React for Finance,Scala Advanced
+NumPy Fundamentals,Java (Intro)
+Pandas,React for Finance
+C++,Airflow Fundamentals
+NumPy Fundamentals,Azure for Finance
+Airflow (Intro),Go (Intro)
+Machine Learning (Intro),Spark Streaming for Finance
+Time Series Advanced,Kafka for Healthcare
+Reinforcement Learning Fundamentals,Go - Best Practices
+Tableau for Healthcare,Scala Advanced
+Snowflake for Healthcare,Reinforcement Learning Fundamentals
+ETL Fundamentals,Time Series (Intro)
+MLOps for Finance,Apache Spark Advanced
+DBT,React Fundamentals
+CI/CD (Intro),MLOps (Intro)
+Spark Streaming (Intro),REST APIs (Intro)
+Kubernetes Fundamentals,Airflow (Practical)
+Reinforcement Learning (Intro),Apache Spark - Best Practices
+Apache Spark - Best Practices,GANs for Finance
+GANs,Docker Advanced
+REST APIs,GCP for Healthcare
+Time Series Fundamentals,Time Series (Practical)
+JavaScript - Best Practices,Node.js
+PyTorch for Finance,Machine Learning
+GANs,Python (Intro)
+NumPy Advanced,SQL Fundamentals
+GANs Advanced,CI/CD Fundamentals
+AWS,Computer Vision Advanced
+Pandas (Practical),MLOps for Finance
+AWS Fundamentals,Airflow for Finance
+PowerBI - Best Practices,NLP
+Azure Fundamentals,React (Practical)
+Cloud Computing Fundamentals,React Fundamentals
+DBT,JavaScript
+Scikit-Learn Fundamentals,Pandas for Healthcare
+PowerBI Fundamentals,NumPy
+Python Advanced,Scala (Intro)
+Machine Learning for Finance,JavaScript (Practical)
+BigQuery Advanced,Scala Advanced
+C++ Fundamentals,Kafka Fundamentals
+Go for Healthcare,AWS - Best Practices
+Scala Advanced,GCP - Best Practices
+Kafka Fundamentals,ETL for Finance
+Go for Healthcare,Snowflake Fundamentals
+Data Visualization Advanced,Apache Spark - Best Practices
+Microservices Fundamentals,Kafka - Best Practices
+REST APIs - Best Practices,Deep Learning Advanced
+GCP Advanced,REST APIs (Practical)
+CI/CD - Best Practices,NumPy
+Kafka for Finance,REST APIs for Healthcare
+Apache Spark - Best Practices,PyTorch - Best Practices
+Statistics (Intro),GCP - Best Practices
+ETL for Healthcare,Reinforcement Learning Advanced
+Airflow (Practical),Airflow for Finance
+Hadoop for Finance,NLP
+Docker Advanced,C++ (Intro)
+Go for Healthcare,Redshift for Finance
+PowerBI - Best Practices,Pandas for Healthcare
+Cloud Computing - Best Practices,Java for Finance
+Kubernetes for Finance,JavaScript (Practical)
+Pandas - Best Practices,Redshift Advanced
+React for Finance,BigQuery (Intro)
+JavaScript Fundamentals,NumPy for Finance
+React for Healthcare,Scikit-Learn (Practical)
+GANs,Cloud Computing - Best Practices
+Microservices - Best Practices,MLOps
+GANs for Healthcare,Apache Spark for Finance
+Pandas,REST APIs
+BigQuery,Python - Best Practices
+Kafka Advanced,Data Visualization for Healthcare
+NLP for Finance,Azure
+REST APIs (Practical),NumPy Fundamentals
+PyTorch for Healthcare,Node.js Advanced
+AWS Fundamentals,Node.js Advanced
+React (Practical),CI/CD (Intro)
+Apache Spark for Healthcare,Statistics (Intro)
+Statistics - Best Practices,Redshift - Best Practices
+ETL for Healthcare,MLOps Advanced
+Redshift - Best Practices,Cloud Computing Fundamentals
+REST APIs for Finance,Scala Advanced
+Scala Advanced,Scala for Healthcare
+Data Visualization for Healthcare,Apache Spark for Finance
+NumPy (Practical),Docker for Healthcare
+REST APIs Fundamentals,Java Advanced
+BigQuery Fundamentals,JavaScript (Practical)
+REST APIs,DBT (Intro)
+BigQuery Advanced,React (Practical)
+Spark Streaming Advanced,Probability (Practical)
+CI/CD Advanced,Kubernetes for Healthcare
+Kafka for Healthcare,AWS for Finance
+Microservices (Intro),React - Best Practices
+Linux,Microservices (Practical)
+Scikit-Learn for Healthcare,Hadoop for Healthcare
+NumPy Advanced,Go
+GANs Advanced,GANs - Best Practices
+Go,PyTorch Fundamentals
+JavaScript for Finance,Azure - Best Practices
+Deep Learning for Finance,C++ (Intro)
+PyTorch for Finance,Airflow (Intro)
+Scala (Intro),Time Series Advanced
+REST APIs - Best Practices,Statistics Advanced
+REST APIs - Best Practices,Go (Intro)
+Statistics (Intro),Scala Fundamentals
+Airflow for Finance,Kubernetes (Practical)
+JavaScript for Finance,Microservices - Best Practices
+NLP,Docker Fundamentals
+Node.js - Best Practices,Node.js
+Tableau (Practical),Spark Streaming Fundamentals
+CI/CD (Intro),Redshift Fundamentals
+C++ (Intro),Linux for Finance
+Scala - Best Practices,JavaScript
+React - Best Practices,Machine Learning Fundamentals
+Go Advanced,Kubernetes Fundamentals
+AWS Fundamentals,Statistics for Finance
+Node.js (Practical),JavaScript for Healthcare
+Snowflake,Kubernetes for Finance
+Spark Streaming - Best Practices,Computer Vision Fundamentals
+GANs - Best Practices,Redshift for Finance
+Statistics (Intro),Machine Learning for Finance
+Tableau (Intro),GANs (Intro)
+Snowflake for Finance,Snowflake (Practical)
+Statistics for Healthcare,JavaScript (Practical)
+PowerBI Advanced,Azure (Intro)
+TensorFlow for Finance,Docker - Best Practices
+BigQuery Advanced,Machine Learning (Intro)
+Tableau (Practical),Airflow Fundamentals
+Go (Intro),REST APIs
+Scikit-Learn (Practical),REST APIs
+PyTorch Advanced,Time Series Advanced
+Tableau for Finance,Python
+ETL Fundamentals,Computer Vision - Best Practices
+Kubernetes - Best Practices,JavaScript Advanced
+Kubernetes - Best Practices,GANs (Practical)
+Data Visualization for Healthcare,C++ (Intro)
+Cloud Computing (Intro),Reinforcement Learning - Best Practices
+Deep Learning (Practical),Redshift (Practical)
+Hadoop,Microservices for Finance
+Go - Best Practices,Computer Vision
+Machine Learning Advanced,Kafka (Practical)
+Kafka (Intro),Docker Advanced
+Snowflake (Intro),Java
+Go - Best Practices,Apache Spark
+ETL (Intro),Computer Vision Advanced
+Data Visualization Advanced,Redshift
+BigQuery,Data Visualization - Best Practices
+DBT (Practical),BigQuery for Finance
+AWS Fundamentals,SQL
+Apache Spark (Practical),PyTorch for Healthcare
+Apache Spark Fundamentals,Java - Best Practices
+Scikit-Learn for Finance,PowerBI (Practical)
+Python,React (Intro)
+Machine Learning for Healthcare,Airflow for Healthcare
+Linux (Intro),TensorFlow Advanced
+React,MLOps (Practical)
+Azure (Intro),Scala for Healthcare
+Machine Learning Fundamentals,REST APIs for Healthcare
+Computer Vision,Probability Advanced
+Scala Fundamentals,JavaScript (Practical)
+Microservices - Best Practices,Kubernetes
+Kafka for Finance,SQL (Practical)
+AWS (Intro),Kafka (Intro)
+Kubernetes (Practical),Node.js Fundamentals
+Airflow (Practical),Scala for Healthcare
+Kubernetes (Intro),PyTorch Advanced
+Kafka for Finance,Linux for Finance
+DBT (Practical),GANs for Finance
+Airflow for Finance,Cloud Computing Fundamentals
+Tableau for Healthcare,Cloud Computing Advanced
+Node.js - Best Practices,Time Series
+TensorFlow Fundamentals,C++ Fundamentals
+Time Series (Practical),Time Series (Intro)
+Pandas for Finance,Cloud Computing (Practical)
+Scala Advanced,Microservices - Best Practices
+MLOps for Healthcare,Computer Vision - Best Practices
+Hadoop (Intro),Redshift (Intro)
+React Advanced,JavaScript - Best Practices
+Statistics - Best Practices,DBT
+Microservices for Healthcare,Statistics Fundamentals
+AWS - Best Practices,Statistics for Finance
+REST APIs Fundamentals,Microservices Advanced
+Kafka - Best Practices,Redshift Fundamentals
+Tableau Fundamentals,Reinforcement Learning (Intro)
+Snowflake for Finance,NumPy Fundamentals
+Deep Learning (Practical),JavaScript (Practical)
+Tableau - Best Practices,Statistics - Best Practices
+BigQuery for Finance,Data Visualization - Best Practices
+Cloud Computing for Healthcare,Airflow Advanced
+React for Healthcare,Reinforcement Learning for Healthcare
+Java Advanced,Deep Learning for Finance
+Probability,Reinforcement Learning for Finance
+Microservices (Practical),Statistics
+Apache Spark for Healthcare,Data Visualization - Best Practices
+Reinforcement Learning (Practical),Linux Fundamentals
+Java Fundamentals,REST APIs for Finance
+ETL (Intro),DBT
+Redshift Fundamentals,Reinforcement Learning
+Java (Practical),Apache Spark (Practical)
+Redshift (Practical),Linux Fundamentals

@@ -1,0 +1,501 @@
+name,industry,headquarters
+Cloud1 Analytics,Cloud,City22
+Vision2 Corp,Consulting,City55
+Neo3 Corp,Telecom,City89
+Neo4 Dynamics,Gaming,City86
+Beta5 Soft,AI Research,City67
+Smart6 Systems,Retail,City29
+Data7 Soft,Technology,City76
+Next8 Works,Consulting,City29
+Tech9 Systems,Telecom,City81
+Tech10 Works,Finance,City5
+Prime11 Soft,Finance,City66
+Neo12 Dynamics,Energy,City63
+Neo13 Corp,Healthcare,City74
+Alpha14 Analytics,Retail,City61
+Core15 AI,Retail,City13
+Data16 AI,Agriculture,City55
+Bright17 Analytics,Telecom,City7
+Beta18 Systems,Technology,City52
+Omni19 Soft,Finance,City32
+Neo20 Works,Cloud,City58
+Cloud21 AI,Healthcare,City36
+Smart22 Works,Finance,City57
+Core23 Corp,Finance,City7
+Beta24 Corp,Technology,City12
+Core25 Works,Healthcare,City53
+Smart26 Analytics,Retail,City52
+Tech27 Solutions,Gaming,City1
+Bright28 Dynamics,AI Research,City37
+Bright29 Corp,Energy,City63
+Cloud30 Works,Education,City28
+Tech31 Networks,Telecom,City70
+Tech32 Soft,Technology,City7
+Alpha33 Analytics,Cloud,City68
+Cloud34 Labs,Cloud,City11
+Prime35 Solutions,Finance,City77
+Data36 Works,Gaming,City16
+Alpha37 Works,Consulting,City77
+Tech38 Networks,Finance,City54
+Beta39 Networks,Consulting,City67
+Edge40 Dynamics,Retail,City86
+Omni41 Soft,Retail,City34
+Bright42 Solutions,Energy,City83
+Vision43 Analytics,Agriculture,City10
+Tech44 Analytics,Consulting,City73
+Data45 Systems,Cloud,City28
+Next46 Dynamics,Healthcare,City45
+Data47 Works,Agriculture,City37
+Cloud48 Analytics,Cloud,City39
+Alpha49 Corp,Technology,City86
+Prime50 Corp,Education,City85
+Data51 Solutions,Education,City15
+Data52 Corp,Healthcare,City35
+Vision53 Networks,Retail,City44
+Neo54 Dynamics,Cloud,City63
+Vision55 Labs,Finance,City82
+Bright56 Dynamics,Technology,City1
+Edge57 Solutions,Energy,City34
+Cloud58 Analytics,Cloud,City55
+Next59 Labs,Finance,City10
+Omni60 Solutions,Cloud,City5
+Prime61 Soft,Consulting,City71
+Cloud62 AI,Healthcare,City6
+Vision63 Soft,Technology,City46
+Neo64 Works,Energy,City14
+Edge65 Corp,Gaming,City80
+Omni66 Solutions,Retail,City21
+Core67 Solutions,Gaming,City4
+Cloud68 Soft,Gaming,City86
+Prime69 Works,Education,City21
+Core70 Systems,Gaming,City5
+Prime71 Analytics,Retail,City26
+Prime72 Analytics,Agriculture,City40
+Prime73 Works,Retail,City4
+Beta74 Works,Gaming,City43
+Vision75 Systems,Education,City45
+Beta76 Corp,Gaming,City87
+Prime77 Corp,Agriculture,City4
+Data78 Dynamics,Healthcare,City75
+Vision79 Labs,Finance,City77
+Bright80 Soft,Telecom,City41
+Bright81 Networks,Cloud,City15
+Bright82 Networks,Retail,City33
+Tech83 AI,Technology,City67
+Core84 Corp,Energy,City86
+Neo85 Soft,Gaming,City9
+Beta86 Soft,Consulting,City41
+Beta87 Systems,Telecom,City39
+Next88 Dynamics,Energy,City53
+Edge89 AI,Telecom,City38
+Next90 Solutions,Retail,City54
+Beta91 AI,Energy,City23
+Alpha92 Networks,Education,City52
+Next93 Labs,Education,City37
+Neo94 AI,Consulting,City78
+Beta95 Soft,AI Research,City57
+Smart96 Works,Cloud,City61
+Core97 Solutions,Energy,City11
+Vision98 Corp,Energy,City82
+Alpha99 Soft,Finance,City31
+Beta100 Dynamics,Retail,City26
+Cloud101 Labs,Technology,City32
+Smart102 Networks,Finance,City59
+Bright103 Networks,Retail,City90
+Bright104 Analytics,Gaming,City32
+Cloud105 Labs,Finance,City55
+Neo106 Solutions,Telecom,City67
+Smart107 Labs,Cloud,City32
+Prime108 Systems,AI Research,City18
+Core109 Analytics,Energy,City68
+Next110 Networks,Agriculture,City57
+Alpha111 Corp,Gaming,City71
+Smart112 Solutions,Telecom,City61
+Smart113 Dynamics,Retail,City82
+Vision114 Corp,AI Research,City81
+Neo115 Dynamics,AI Research,City10
+Omni116 Dynamics,Retail,City35
+Edge117 Soft,Cloud,City11
+Cloud118 Solutions,Retail,City50
+Omni119 Solutions,Telecom,City28
+Data120 AI,Gaming,City43
+Next121 Analytics,Gaming,City8
+Neo122 AI,Gaming,City75
+Omni123 Labs,Consulting,City49
+Smart124 Labs,Agriculture,City39
+Core125 AI,Gaming,City69
+Omni126 Corp,Consulting,City29
+Smart127 Works,Education,City56
+Smart128 Labs,Gaming,City44
+Beta129 AI,Telecom,City22
+Prime130 Analytics,Healthcare,City80
+Next131 Labs,Gaming,City76
+Alpha132 Labs,Finance,City83
+Bright133 Solutions,AI Research,City24
+Tech134 Dynamics,Gaming,City42
+Neo135 Analytics,Agriculture,City44
+Core136 AI,Education,City54
+Vision137 Systems,AI Research,City3
+Omni138 Corp,Technology,City45
+Neo139 Systems,Energy,City6
+Core140 Labs,Retail,City26
+Prime141 Labs,Consulting,City20
+Neo142 Solutions,AI Research,City86
+Data143 Networks,Retail,City60
+Omni144 Dynamics,Agriculture,City22
+Alpha145 Networks,Telecom,City15
+Core146 Solutions,Education,City14
+Alpha147 Labs,Education,City74
+Beta148 AI,Gaming,City26
+Data149 Networks,Telecom,City81
+Neo150 Systems,Telecom,City39
+Prime151 Networks,Finance,City73
+Core152 Labs,Agriculture,City69
+Bright153 Soft,Finance,City65
+Beta154 Soft,Technology,City54
+Prime155 Analytics,Finance,City56
+Edge156 Analytics,Telecom,City20
+Bright157 Solutions,Telecom,City67
+Beta158 Dynamics,Consulting,City69
+Core159 Analytics,AI Research,City56
+Prime160 Networks,Education,City42
+Prime161 Works,Finance,City36
+Smart162 Works,AI Research,City73
+Alpha163 AI,Agriculture,City4
+Smart164 Soft,Healthcare,City63
+Neo165 Soft,Education,City44
+Vision166 Networks,Telecom,City36
+Next167 Labs,Cloud,City25
+Data168 Works,Telecom,City53
+Smart169 Corp,Retail,City89
+Smart170 Analytics,AI Research,City3
+Data171 Dynamics,Retail,City52
+Omni172 Works,Education,City85
+Alpha173 Soft,AI Research,City71
+Next174 Soft,Gaming,City71
+Edge175 Soft,Telecom,City59
+Vision176 Dynamics,Education,City30
+Data177 Works,Agriculture,City16
+Omni178 Corp,Telecom,City24
+Neo179 Works,Telecom,City62
+Vision180 Networks,Cloud,City77
+Vision181 Systems,Retail,City38
+Neo182 Soft,Healthcare,City39
+Tech183 Corp,Healthcare,City36
+Tech184 Labs,Cloud,City38
+Omni185 Solutions,Energy,City63
+Data186 Labs,Consulting,City37
+Smart187 Analytics,AI Research,City44
+Cloud188 Labs,Education,City62
+Data189 Systems,Gaming,City63
+Data190 Networks,Energy,City88
+Tech191 Solutions,Healthcare,City73
+Vision192 Systems,Retail,City16
+Next193 AI,Consulting,City77
+Core194 Networks,Retail,City67
+Bright195 Analytics,AI Research,City39
+Prime196 Networks,Gaming,City40
+Alpha197 Networks,Technology,City79
+Omni198 Systems,Retail,City81
+Neo199 Dynamics,Energy,City11
+Cloud200 Works,Healthcare,City71
+Data201 Solutions,Technology,City53
+Smart202 Networks,AI Research,City38
+Tech203 Works,Education,City37
+Omni204 Analytics,Finance,City88
+Neo205 Dynamics,Energy,City76
+Beta206 Works,Gaming,City15
+Next207 Works,Energy,City20
+Vision208 Solutions,Finance,City8
+Cloud209 Dynamics,Consulting,City73
+Vision210 Analytics,Finance,City60
+Omni211 Dynamics,Telecom,City52
+Vision212 Corp,Cloud,City64
+Smart213 Systems,Consulting,City6
+Bright214 Soft,Consulting,City33
+Tech215 Systems,Retail,City87
+Prime216 Networks,Consulting,City3
+Core217 Dynamics,Consulting,City6
+Core218 Solutions,AI Research,City67
+Beta219 Analytics,Education,City24
+Alpha220 AI,Energy,City63
+Data221 Analytics,Agriculture,City53
+Edge222 Soft,Energy,City14
+Prime223 Solutions,Agriculture,City53
+Omni224 Analytics,Education,City85
+Bright225 Corp,Technology,City59
+Data226 Soft,Education,City42
+Data227 AI,Cloud,City1
+Beta228 Corp,AI Research,City53
+Tech229 Works,Cloud,City47
+Alpha230 Analytics,Energy,City57
+Core231 Labs,Retail,City35
+Next232 Solutions,Education,City57
+Omni233 Analytics,Finance,City4
+Beta234 Networks,Retail,City21
+Vision235 Corp,Technology,City71
+Bright236 Systems,Retail,City15
+Smart237 Systems,Energy,City20
+Smart238 Dynamics,Cloud,City35
+Bright239 Analytics,AI Research,City32
+Smart240 Corp,Healthcare,City50
+Neo241 Networks,Cloud,City18
+Prime242 Systems,Education,City54
+Edge243 Corp,Education,City1
+Vision244 Dynamics,Consulting,City75
+Beta245 Analytics,Healthcare,City58
+Next246 Analytics,Agriculture,City43
+Next247 Corp,Gaming,City59
+Edge248 Works,Telecom,City31
+Alpha249 AI,Retail,City53
+Tech250 Soft,Telecom,City61
+Omni251 AI,Gaming,City85
+Core252 Solutions,AI Research,City5
+Cloud253 Corp,Consulting,City43
+Prime254 Systems,AI Research,City13
+Next255 Analytics,Technology,City19
+Bright256 Solutions,Finance,City61
+Core257 Dynamics,Agriculture,City80
+Omni258 AI,Energy,City11
+Prime259 Soft,Energy,City69
+Bright260 Soft,Energy,City63
+Prime261 Corp,Technology,City80
+Data262 Works,Energy,City88
+Vision263 Works,Telecom,City12
+Bright264 Systems,Energy,City13
+Smart265 Solutions,Telecom,City39
+Tech266 Labs,Agriculture,City8
+Vision267 Soft,Agriculture,City56
+Cloud268 Works,Cloud,City53
+Alpha269 Solutions,Healthcare,City23
+Data270 Networks,Gaming,City80
+Beta271 Works,AI Research,City75
+Cloud272 Works,AI Research,City82
+Vision273 Analytics,Education,City86
+Tech274 Analytics,Education,City87
+Next275 Solutions,Finance,City57
+Edge276 Networks,Education,City82
+Bright277 Dynamics,AI Research,City39
+Neo278 AI,AI Research,City14
+Neo279 AI,Consulting,City46
+Alpha280 Dynamics,Telecom,City38
+Tech281 AI,Education,City2
+Alpha282 Labs,Consulting,City64
+Prime283 Dynamics,Retail,City78
+Core284 Soft,Retail,City82
+Neo285 Networks,Education,City87
+Core286 Solutions,Energy,City13
+Beta287 Labs,Education,City57
+Tech288 Networks,Agriculture,City17
+Data289 Dynamics,Agriculture,City54
+Cloud290 Works,Healthcare,City70
+Edge291 Corp,Cloud,City35
+Prime292 Solutions,Education,City62
+Core293 Dynamics,Telecom,City44
+Core294 Systems,AI Research,City10
+Cloud295 Works,Energy,City87
+Bright296 Corp,Agriculture,City12
+Core297 AI,Technology,City34
+Next298 Systems,AI Research,City48
+Beta299 Dynamics,Consulting,City49
+Prime300 Soft,Finance,City87
+Neo301 Analytics,Technology,City80
+Next302 Soft,Consulting,City29
+Beta303 Systems,Energy,City60
+Omni304 Dynamics,Energy,City53
+Data305 Solutions,Technology,City5
+Vision306 Analytics,Finance,City13
+Neo307 Corp,Healthcare,City50
+Smart308 Soft,Energy,City90
+Next309 AI,Consulting,City20
+Bright310 Systems,AI Research,City79
+Bright311 Dynamics,Technology,City89
+Edge312 Works,AI Research,City57
+Neo313 Soft,Finance,City88
+Edge314 Corp,Energy,City46
+Tech315 AI,Education,City25
+Data316 Analytics,Finance,City85
+Neo317 Networks,Technology,City7
+Core318 Soft,Retail,City17
+Core319 Networks,Retail,City9
+Prime320 Corp,Retail,City76
+Neo321 Works,Agriculture,City19
+Core322 Networks,Technology,City36
+Prime323 Solutions,Healthcare,City70
+Vision324 Solutions,Finance,City85
+Prime325 Labs,Healthcare,City2
+Edge326 Works,Consulting,City42
+Tech327 Solutions,Education,City7
+Cloud328 AI,Cloud,City15
+Omni329 Systems,AI Research,City58
+Core330 Soft,Cloud,City76
+Data331 Analytics,Cloud,City29
+Alpha332 Labs,Telecom,City85
+Next333 Dynamics,AI Research,City83
+Tech334 Labs,AI Research,City52
+Bright335 Systems,AI Research,City57
+Data336 Systems,Agriculture,City78
+Cloud337 Systems,Healthcare,City36
+Alpha338 Networks,Cloud,City42
+Bright339 Networks,Cloud,City38
+Smart340 Corp,Consulting,City56
+Data341 Systems,Energy,City84
+Core342 Corp,Telecom,City28
+Bright343 Analytics,Retail,City53
+Edge344 Analytics,Gaming,City54
+Omni345 Systems,Agriculture,City55
+Edge346 Dynamics,Agriculture,City20
+Beta347 Analytics,Finance,City12
+Prime348 Systems,Finance,City56
+Data349 Soft,Healthcare,City72
+Tech350 Networks,Cloud,City72
+Edge351 Systems,Gaming,City46
+Prime352 AI,Telecom,City7
+Vision353 Networks,Education,City46
+Data354 Networks,Cloud,City28
+Cloud355 Analytics,Retail,City14
+Edge356 Corp,Agriculture,City15
+Core357 Dynamics,Consulting,City29
+Core358 AI,Cloud,City80
+Alpha359 Corp,Technology,City78
+Beta360 Dynamics,Technology,City24
+Vision361 Dynamics,Agriculture,City45
+Tech362 Solutions,Healthcare,City73
+Beta363 AI,Finance,City19
+Omni364 Labs,Finance,City68
+Neo365 AI,Gaming,City59
+Edge366 Solutions,Agriculture,City40
+Omni367 Soft,Consulting,City77
+Data368 Labs,Healthcare,City21
+Core369 Networks,Technology,City87
+Data370 Dynamics,AI Research,City85
+Bright371 Analytics,Consulting,City57
+Bright372 Dynamics,Retail,City66
+Data373 Soft,Gaming,City15
+Vision374 Networks,AI Research,City68
+Beta375 Dynamics,Technology,City29
+Bright376 Networks,Technology,City1
+Neo377 Dynamics,Retail,City18
+Core378 Dynamics,Education,City42
+Data379 Labs,AI Research,City56
+Cloud380 Solutions,Gaming,City69
+Omni381 Works,Cloud,City72
+Prime382 Soft,Finance,City51
+Prime383 Labs,Gaming,City3
+Smart384 Systems,Agriculture,City74
+Bright385 Networks,Gaming,City82
+Bright386 Dynamics,Finance,City52
+Tech387 Soft,Healthcare,City80
+Smart388 Soft,Finance,City56
+Prime389 Systems,Retail,City56
+Alpha390 AI,Cloud,City11
+Bright391 Dynamics,Telecom,City44
+Neo392 Soft,Healthcare,City10
+Next393 Systems,Cloud,City66
+Neo394 Soft,Agriculture,City83
+Prime395 Solutions,Retail,City14
+Cloud396 Dynamics,Retail,City23
+Alpha397 Solutions,Energy,City10
+Cloud398 Analytics,AI Research,City73
+Core399 Networks,AI Research,City88
+Alpha400 Networks,Agriculture,City81
+Edge401 Solutions,AI Research,City9
+Smart402 Analytics,Energy,City39
+Core403 Dynamics,Consulting,City8
+Edge404 Corp,Finance,City40
+Smart405 Analytics,Technology,City8
+Edge406 Dynamics,Finance,City83
+Prime407 Systems,Consulting,City77
+Next408 AI,AI Research,City75
+Next409 Labs,AI Research,City74
+Beta410 Works,Agriculture,City78
+Smart411 Corp,Healthcare,City8
+Smart412 Systems,Agriculture,City11
+Next413 Solutions,Technology,City32
+Omni414 Analytics,AI Research,City68
+Next415 Networks,Healthcare,City47
+Edge416 Dynamics,Gaming,City53
+Core417 Soft,Energy,City77
+Tech418 Soft,Finance,City43
+Data419 Corp,Energy,City50
+Vision420 Dynamics,Telecom,City85
+Alpha421 Solutions,Agriculture,City11
+Alpha422 Solutions,Agriculture,City40
+Beta423 AI,Healthcare,City77
+Omni424 Systems,Education,City72
+Bright425 Soft,Healthcare,City86
+Omni426 Corp,Finance,City83
+Beta427 AI,Cloud,City47
+Tech428 Soft,Education,City24
+Neo429 Soft,AI Research,City25
+Neo430 Solutions,Healthcare,City10
+Vision431 Systems,Cloud,City70
+Prime432 Corp,Technology,City85
+Edge433 Networks,Healthcare,City77
+Bright434 Solutions,Healthcare,City24
+Prime435 Networks,Healthcare,City57
+Tech436 AI,Agriculture,City87
+Omni437 Works,AI Research,City79
+Vision438 Analytics,Retail,City69
+Neo439 Dynamics,AI Research,City25
+Edge440 Networks,AI Research,City60
+Core441 Dynamics,Gaming,City65
+Next442 AI,Healthcare,City26
+Core443 Networks,Healthcare,City33
+Tech444 Analytics,Agriculture,City71
+Data445 Corp,Finance,City37
+Data446 Solutions,Education,City58
+Next447 Solutions,Gaming,City12
+Neo448 Analytics,Agriculture,City4
+Bright449 Labs,Gaming,City65
+Edge450 Works,Gaming,City11
+Edge451 Works,Technology,City41
+Data452 Soft,Healthcare,City18
+Tech453 Dynamics,AI Research,City90
+Prime454 Solutions,Telecom,City61
+Smart455 Networks,Technology,City11
+Tech456 Dynamics,Retail,City20
+Next457 Networks,Cloud,City55
+Data458 Dynamics,Retail,City39
+Data459 Labs,Retail,City54
+Beta460 Networks,AI Research,City9
+Data461 Analytics,Consulting,City69
+Tech462 Corp,Consulting,City31
+Omni463 Solutions,Education,City55
+Tech464 Networks,Agriculture,City31
+Alpha465 AI,Healthcare,City86
+Beta466 Systems,Cloud,City47
+Data467 Corp,Cloud,City65
+Core468 Corp,Cloud,City3
+Bright469 Analytics,Technology,City82
+Bright470 Soft,Education,City3
+Edge471 Systems,Agriculture,City31
+Omni472 Systems,Consulting,City43
+Cloud473 Labs,Agriculture,City70
+Edge474 Solutions,Energy,City60
+Omni475 Analytics,Energy,City24
+Core476 Solutions,Finance,City59
+Tech477 Dynamics,Retail,City6
+Core478 Works,Technology,City41
+Vision479 Corp,Gaming,City70
+Smart480 Dynamics,Technology,City83
+Neo481 Dynamics,Agriculture,City7
+Prime482 Soft,Education,City16
+Core483 Soft,Gaming,City52
+Omni484 Analytics,Gaming,City44
+Cloud485 Analytics,Telecom,City64
+Edge486 Corp,Education,City11
+Omni487 AI,Finance,City56
+Alpha488 Solutions,Cloud,City38
+Edge489 Systems,Finance,City42
+Beta490 Dynamics,Education,City58
+Alpha491 AI,Healthcare,City89
+Smart492 Soft,AI Research,City6
+Omni493 Soft,Consulting,City56
+Vision494 Labs,Finance,City86
+Beta495 AI,Agriculture,City66
+Core496 Solutions,Technology,City19
+Prime497 Networks,Energy,City57
+Tech498 Solutions,Finance,City31
+Core499 Soft,Agriculture,City50
+Alpha500 Labs,Consulting,City20
